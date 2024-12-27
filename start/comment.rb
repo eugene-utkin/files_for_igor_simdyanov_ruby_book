@@ -1,2 +1,2 @@
 # Вывод строки в стандартный поток
-puts 'Hello, world!'
+puts 'Hello, world!' # Hello, world!
