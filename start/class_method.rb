@@ -5,4 +5,4 @@ class Hello
 end
 
 h = Hello.new
-h.greeting
+h.greeting # Hello, world!
