@@ -1,2 +1,2 @@
 CONST = 12
-puts CONST
+puts CONST # 12
