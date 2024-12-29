@@ -1,0 +1,1 @@
+str = 'Rubist\'s world'
