@@ -2,4 +2,4 @@ class Hello
 end
 
 h = Hello.new
-p h.class
+p h.class # Hello
