@@ -3,4 +3,4 @@ puts CONST # 12
 CONST = 14
 # constant_change.rb:3: warning: already initialized constant CONST
 # constant_change.rb:1: warning: previous definition of CONST was here
-puts CONST
+puts CONST # 14
