@@ -6,4 +6,4 @@ end
 
 h = Hello.new
 o = Object.new
-h.greeting
+h.greeting # Hello, world!
