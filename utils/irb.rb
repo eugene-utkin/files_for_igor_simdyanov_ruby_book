@@ -5,3 +5,4 @@ class Hello
 end
 
 h = Hello.new
+o = Object.new
