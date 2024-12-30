@@ -3,3 +3,5 @@ class Hello
     puts 'Hello, world!'
   end
 end
+
+h = Hello.new
