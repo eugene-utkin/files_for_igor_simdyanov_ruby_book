@@ -8,4 +8,6 @@ h = Hello.new
 o = Object.new
 h.greeting
 
+binding.irb
+
 o.greeting
