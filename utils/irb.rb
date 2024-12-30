@@ -7,3 +7,5 @@ end
 h = Hello.new
 o = Object.new
 h.greeting
+
+o.greeting
