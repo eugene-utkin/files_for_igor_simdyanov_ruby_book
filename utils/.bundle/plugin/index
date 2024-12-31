@@ -1,0 +1,10 @@
+---
+commands:
+  graph: "bundler-graph"
+hooks:
+load_paths:
+  bundler-graph:
+  - "/usr/share/rvm/gems/ruby-3.2.1/gems/bundler-graph-0.2.1/lib"
+plugin_paths:
+  bundler-graph: "/usr/share/rvm/gems/ruby-3.2.1/gems/bundler-graph-0.2.1"
+sources:
