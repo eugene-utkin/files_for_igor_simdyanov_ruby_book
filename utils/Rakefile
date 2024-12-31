@@ -7,7 +7,3 @@ namespace :test do
     puts 'Hello, world!'
   end
 end
-
-task :load do
-  puts 'Hello, Ruby!'
-end
