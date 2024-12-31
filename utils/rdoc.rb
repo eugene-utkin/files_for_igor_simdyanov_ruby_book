@@ -1,7 +1,7 @@
 ##
 # Класс для вывода приветствия
 class Hello
-  def greeting
+  def greeting(name)
 
   end
 end
