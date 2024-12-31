@@ -5,3 +5,7 @@ desc 'Вывод фразы Hello, world!'
 task :load do
   puts 'Hello, world!'
 end
+
+task :load do
+
+end
