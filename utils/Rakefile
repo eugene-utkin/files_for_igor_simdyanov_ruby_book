@@ -7,3 +7,9 @@ namespace :test do
     puts 'Hello, world!'
   end
 end
+
+# Homework 2
+desc 'Display current date and time'
+task :current_time do
+  puts "Current time: #{Time.now}."
+end
