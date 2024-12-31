@@ -7,5 +7,5 @@ task :load do
 end
 
 task :load do
-
+  puts 'Hello, Ruby!'
 end
