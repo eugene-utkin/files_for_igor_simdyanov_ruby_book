@@ -3,4 +3,4 @@ infpos = 100 / 0.0
 infneg = -100 / 0.0
 nan = 0 / 0.0
 
-p number.infinite?
+p number.infinite? # nil
