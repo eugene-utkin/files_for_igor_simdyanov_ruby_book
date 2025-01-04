@@ -7,4 +7,4 @@ p number.infinite? # nil
 p infpos.infinite? # 1
 p infneg.infinite? # -1
 
-p number.nan?
+p number.nan? # false
