@@ -1,1 +1,1 @@
-puts 2.class
+puts 2.class         # Integer
