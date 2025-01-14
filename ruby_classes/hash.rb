@@ -1,2 +1,2 @@
 h = { 'first' => 'hello', 'second' => 'world' }
-puts h['second']
+puts h['second'] # world
