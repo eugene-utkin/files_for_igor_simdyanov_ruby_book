@@ -7,8 +7,10 @@ colors = {
   red: "Красный",
   orange: "Оранжевый",
   yellow: "Желтый",
-  green: "Зеленый".
+  green: "Зеленый",
   blue: "Голубой",
   indigo: "Синий",
   violet: "Фиолетовый"
 }
+
+morning = 6..11
