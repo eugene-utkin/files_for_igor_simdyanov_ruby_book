@@ -14,3 +14,4 @@ colors = {
 }
 
 morning = 6..11
+day = 12..17
