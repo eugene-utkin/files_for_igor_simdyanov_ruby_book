@@ -16,3 +16,5 @@ colors = {
 morning = 6..11
 day = 12..17
 evening = 18..23
+night = 0..5
+
