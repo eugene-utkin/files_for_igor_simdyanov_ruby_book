@@ -27,3 +27,4 @@ puts colors.values.sample
 puts "====================================="
 
 point_1 = {x: 3, y: 7}
+point_2 = {x: -1, y: 5}
