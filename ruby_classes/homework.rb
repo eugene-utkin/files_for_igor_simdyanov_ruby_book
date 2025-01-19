@@ -25,3 +25,5 @@ night = 0..5
 puts colors.values.sample
 
 puts "====================================="
+
+point_1 = {x : 3, y: 7}
