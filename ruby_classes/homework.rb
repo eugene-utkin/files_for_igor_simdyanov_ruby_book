@@ -42,4 +42,5 @@ distance = Math.sqrt((point_1[:x] - point_2[:x]) ** 2 +  (point_1[:y] - point_2[
 # Homework 8
 '    Hello world   '.strip
 
+# Homework 9
 'hello' + ' ' + 'world'
