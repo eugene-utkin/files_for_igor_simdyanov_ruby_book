@@ -20,6 +20,7 @@ colors = {
   violet: "Фиолетовый"
 }
 
+# Homework 4
 morning = 6..11
 day = 12..17
 evening = 18..23
