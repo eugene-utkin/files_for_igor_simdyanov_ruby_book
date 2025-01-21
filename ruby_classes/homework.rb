@@ -31,6 +31,7 @@ puts colors.values.sample
 
 puts "====================================="
 
+# Homework 6
 point_1 = {x: 3, y: 7}
 point_2 = {x: -1, y: 5}
 distance = Math.sqrt((point_1[:x] - point_2[:x]) ** 2 +  (point_1[:y] - point_2[:y]) ** 2)
