@@ -26,6 +26,7 @@ day = 12..17
 evening = 18..23
 night = 0..5
 
+# Homework 5
 puts colors.values.sample
 
 puts "====================================="
