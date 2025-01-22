@@ -3,5 +3,5 @@ def say_bye
 end
 
 def start
-
+  x = 'переменная x из start'
 end
