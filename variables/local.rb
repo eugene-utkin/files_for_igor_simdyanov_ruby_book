@@ -4,5 +4,5 @@ end
 
 def start
   x = 'переменная x из start'
-  puts x
+  puts x  # переменная x из start
 end
