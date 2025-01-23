@@ -6,5 +6,5 @@ def start
   x = 'переменная x из start'
   puts x  # переменная x из start
   say_bye
-  puts x
+  puts x  # переменная x из start
 end
