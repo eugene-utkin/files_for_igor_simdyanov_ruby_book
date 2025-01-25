@@ -4,4 +4,5 @@ end
 
 def start
   $x = 'переменная $x из start'
+  puts $x
 end
