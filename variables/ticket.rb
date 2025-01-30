@@ -13,3 +13,4 @@ second = Ticket.new
 
 puts 'Первый билет'
 puts "Цена: #{first.date}"
+puts "Дата: #{first.price}"
