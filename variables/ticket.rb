@@ -4,6 +4,6 @@ class Ticket
   end
 
   def price
-
+    2000
   end
 end
