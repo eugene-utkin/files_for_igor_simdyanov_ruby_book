@@ -7,3 +7,5 @@ class Ticket
     2000
   end
 end
+
+first = Ticket.new
