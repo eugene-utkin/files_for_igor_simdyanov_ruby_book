@@ -12,3 +12,4 @@ first = Ticket.new
 second = Ticket.new
 
 puts 'Первый билет'
+puts "Цена: #{first.date}"
