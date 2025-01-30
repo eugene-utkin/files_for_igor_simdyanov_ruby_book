@@ -10,3 +10,5 @@ end
 
 first = Ticket.new
 second = Ticket.new
+
+puts 'Первый билет'
