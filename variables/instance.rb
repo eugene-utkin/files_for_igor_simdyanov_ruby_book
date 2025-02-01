@@ -1,5 +1,5 @@
 class Ticket
-  def set_date
+  def set_date(date)
 
   end
 end
