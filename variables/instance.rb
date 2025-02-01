@@ -6,4 +6,8 @@ class Ticket
   def date
     @date
   end
+
+  def set_price
+
+  end
 end
