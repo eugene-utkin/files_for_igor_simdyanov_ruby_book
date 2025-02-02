@@ -15,3 +15,5 @@ class Ticket
     @price
   end
 end
+
+first = Ticket.new
