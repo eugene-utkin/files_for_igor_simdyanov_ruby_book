@@ -7,7 +7,7 @@ class Ticket
     @date
   end
 
-  def set_price
+  def set_price(price)
 
   end
 end
