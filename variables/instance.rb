@@ -8,6 +8,6 @@ class Ticket
   end
 
   def set_price(price)
-
+    @price = price
   end
 end
