@@ -17,3 +17,4 @@ class Ticket
 end
 
 first = Ticket.new
+second = Ticket.new
