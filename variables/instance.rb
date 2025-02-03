@@ -18,3 +18,5 @@ end
 
 first = Ticket.new
 second = Ticket.new
+
+first.set_price(2000)
