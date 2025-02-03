@@ -23,3 +23,4 @@ first.set_price(2000)
 first.set_date('31.10.2019')
 
 second.set_price(3000)
+second.set_date('02.12.2019')
