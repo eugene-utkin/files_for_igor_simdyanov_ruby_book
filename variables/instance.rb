@@ -30,3 +30,4 @@ puts "Цена: #{first.date}"
 puts "Дата: #{first.price}"
 
 puts 'Второй билет'
+puts "Цена: #{second.date}"
