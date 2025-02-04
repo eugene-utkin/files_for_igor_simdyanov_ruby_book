@@ -28,3 +28,5 @@ second.set_date('02.12.2019')
 puts 'Первый билет'
 puts "Цена: #{first.date}"
 puts "Дата: #{first.price}"
+
+puts 'Второй билет'
