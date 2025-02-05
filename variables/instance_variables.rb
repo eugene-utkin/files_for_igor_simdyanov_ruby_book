@@ -20,3 +20,5 @@ first = Ticket.new
 
 first.set_price(2000)
 first.set_date('31.10.2019')
+
+p first.instance_variables
