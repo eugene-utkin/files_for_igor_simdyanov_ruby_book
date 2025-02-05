@@ -17,3 +17,5 @@ class Ticket
 end
 
 first = Ticket.new
+
+first.set_price(2000)
