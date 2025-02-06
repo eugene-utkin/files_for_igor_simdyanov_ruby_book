@@ -11,3 +11,4 @@ class HelloWorld
 end
 
 first = HelloWorld.new
+first.set_counter 10
