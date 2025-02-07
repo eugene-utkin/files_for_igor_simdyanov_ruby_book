@@ -14,3 +14,4 @@ first = HelloWorld.new
 first.set_counter 10
 
 second = HelloWorld.new
+puts second.counter
