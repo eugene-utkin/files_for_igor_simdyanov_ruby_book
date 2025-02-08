@@ -9,3 +9,5 @@ class HelloWorld
     @@counter = counter
   end
 end
+
+p HelloWorld.class_variables
