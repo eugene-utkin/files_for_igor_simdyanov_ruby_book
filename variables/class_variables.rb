@@ -10,4 +10,4 @@ class HelloWorld
   end
 end
 
-p HelloWorld.class_variables
+p HelloWorld.class_variables # [:@@counter]
