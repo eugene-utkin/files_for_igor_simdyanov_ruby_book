@@ -6,6 +6,6 @@ class HelloWorld
   end
 
   def set_counter(counter)
-
+    @@counter = counter
   end
 end
