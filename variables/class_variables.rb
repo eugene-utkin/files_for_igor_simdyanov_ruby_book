@@ -5,7 +5,7 @@ class HelloWorld
     @@counter
   end
 
-  def set_counter
+  def set_counter(counter)
 
   end
 end
