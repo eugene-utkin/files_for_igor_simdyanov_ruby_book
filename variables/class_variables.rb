@@ -4,4 +4,8 @@ class HelloWorld
   def counter
     @@counter
   end
+
+  def set_counter
+
+  end
 end
