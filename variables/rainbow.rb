@@ -6,3 +6,5 @@ class Rainbow
     @colors
   end
 end
+
+rainbow = Rainbow.new
