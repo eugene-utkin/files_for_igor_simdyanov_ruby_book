@@ -17,4 +17,4 @@ copy = rainbow.dup
 p copy.colors
 
 p rainbow.object_id # 70315732997580
-p copy.object_id
+p copy.object_id    # 70315732997540
