@@ -10,3 +10,5 @@ end
 rainbow = Rainbow.new
 
 colors = %i[red orange yellow green blue indigo violet]
+rainbow.set_colors(colors)
+
