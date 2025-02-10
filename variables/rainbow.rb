@@ -14,3 +14,4 @@ rainbow.set_colors(colors)
 
 copy = rainbow.dup
 
+p copy.colors
