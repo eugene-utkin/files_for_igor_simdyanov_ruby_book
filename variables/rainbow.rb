@@ -20,4 +20,4 @@ p rainbow.object_id # 70315732997580
 p copy.object_id    # 70315732997540
 
 p rainbow.colors.object_id # 70315732997560
-p copy.colors.object_id
+p copy.colors.object_id    # 70315732997560
