@@ -18,4 +18,8 @@ class User
   def set_patronymic(patronymic)
     @patronymic = patronymic
   end
+
+  def patronymic
+
+  end
 end
