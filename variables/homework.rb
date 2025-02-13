@@ -8,6 +8,6 @@ class User
   end
 
   def set_last_name(last_name)
-
+    @last_name = last_name
   end
 end
