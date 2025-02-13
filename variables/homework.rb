@@ -16,6 +16,6 @@ class User
   end
 
   def set_patronymic(patronymic)
-
+    @patronymic = patronymic
   end
 end
