@@ -14,4 +14,8 @@ class User
   def last_name
     @last_name
   end
+
+  def set_patronymic
+
+  end
 end
