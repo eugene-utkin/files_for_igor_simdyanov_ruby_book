@@ -20,6 +20,6 @@ class User
   end
 
   def patronymic
-
+    @patronymic
   end
 end
