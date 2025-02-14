@@ -23,3 +23,5 @@ class User
     @patronymic
   end
 end
+
+user = User.new
