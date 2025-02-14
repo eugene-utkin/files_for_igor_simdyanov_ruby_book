@@ -25,3 +25,4 @@ class User
 end
 
 user = User.new
+user.first_name = "Evgeniy"
