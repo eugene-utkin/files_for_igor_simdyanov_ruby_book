@@ -29,4 +29,4 @@ user.first_name = "Evgeniy"
 user.last_name = "Utkin"
 user.patronymic = "Nikolaevich"
 
-puts "#{user.first_name}"
+puts "#{user.first_name} #{user.patronymic}"
