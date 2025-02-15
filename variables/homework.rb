@@ -27,6 +27,6 @@ end
 user = User.new
 user.set_first_name = "Evgeniy"
 user.set_last_name = "Utkin"
-user.patronymic = "Nikolaevich"
+user.set_patronymic = "Nikolaevich"
 
 puts "#{user.first_name} #{user.patronymic} #{user.last_name}"
