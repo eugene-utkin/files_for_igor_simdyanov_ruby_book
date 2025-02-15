@@ -25,7 +25,7 @@ class User
 end
 
 user = User.new
-user.first_name = "Evgeniy"
+user.set_first_name = "Evgeniy"
 user.last_name = "Utkin"
 user.patronymic = "Nikolaevich"
 
