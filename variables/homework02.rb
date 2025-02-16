@@ -1,5 +1,5 @@
 class Point
-  def initialize
+  def initialize(x)
 
   end
 end
