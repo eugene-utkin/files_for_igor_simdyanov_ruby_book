@@ -1,5 +1,5 @@
 class Point
-  attr_reader :x
+  attr_reader :x, :y
 
   def initialize(x, y)
     @x = x
