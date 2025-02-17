@@ -8,3 +8,4 @@ class Point
 end
 
 point1 = Point.new(3, 6)
+point2 = Point.new(-1, 5)
