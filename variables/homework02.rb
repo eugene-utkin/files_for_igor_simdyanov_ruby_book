@@ -6,3 +6,5 @@ class Point
     @y = y
   end
 end
+
+point1 = Point.new(3, 6)
