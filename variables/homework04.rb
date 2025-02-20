@@ -1,5 +1,5 @@
 class Car
-  attr_accessor :brand, :model
+  attr_accessor :brand, :model, :type
 
   def initialize(brand, model, type, color)
 
