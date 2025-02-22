@@ -9,3 +9,5 @@ class Car
     @year = year
   end
 end
+
+car1 = Car.new
