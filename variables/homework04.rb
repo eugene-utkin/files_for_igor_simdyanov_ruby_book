@@ -5,5 +5,6 @@ class Car
     @brand = brand
     @model = model
     @type = type
+    @color = color
   end
 end
