@@ -4,5 +4,6 @@ class Car
   def initialize(brand: nil, model: nil, type: nil, color: nil, year: nil)
     @brand = brand
     @model = model
+    @type = type
   end
 end
