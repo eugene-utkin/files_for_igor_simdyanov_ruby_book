@@ -6,5 +6,6 @@ class Car
     @model = model
     @type = type
     @color = color
+    @year = year
   end
 end
