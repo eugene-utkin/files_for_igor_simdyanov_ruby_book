@@ -10,4 +10,4 @@ class Car
   end
 end
 
-car1 = Car.new(brand: "Honda", "Odyssey", "Passenger", "Blue")
+car1 = Car.new(brand: "Honda", model: "Odyssey", "Passenger", "Blue")
