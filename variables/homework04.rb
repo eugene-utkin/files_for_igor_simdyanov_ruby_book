@@ -11,4 +11,4 @@ class Car
 end
 
 car1 = Car.new(brand: "Honda", model: "Odyssey", type: "Passenger", color: "Blue", year: 2024)
-car2 = Car.new(brand: "Renault", model: "T", type: "Truck") color: "Red"
+car2 = Car.new(brand: "Renault", model: "T", type: "Truck", color: "Red", year: 2023)
