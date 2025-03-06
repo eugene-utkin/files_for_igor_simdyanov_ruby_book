@@ -1,4 +1,4 @@
 $LOAD_PATH << '.'
 require 'imports'
 
-puts CONST
+puts CONST # 1
