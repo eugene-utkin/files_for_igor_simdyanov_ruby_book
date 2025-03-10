@@ -6,3 +6,6 @@ class HelloWorld
     puts 'Hello, world!'
   end
 end
+
+hello = HelloWorld.new
+
