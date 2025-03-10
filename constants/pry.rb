@@ -8,4 +8,4 @@ class HelloWorld
 end
 
 hello = HelloWorld.new
-
+hello.greeting
