@@ -4,7 +4,8 @@ require 'bundler/setup'
 Bundler.require(:default)
 
 class HelloWorld
-	def greeting
+  def greeting
+    binding.pry
     puts 'Hello, world!'
   end
 end
