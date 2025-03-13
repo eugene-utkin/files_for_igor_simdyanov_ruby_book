@@ -2,3 +2,7 @@ source 'https://rubygems.org'
 
 # Bundler.require(:default)
 gem 'rubocop'
+
+group :debug do
+
+end
