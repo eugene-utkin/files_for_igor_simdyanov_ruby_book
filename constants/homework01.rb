@@ -1,1 +1,2 @@
 MONDAY = "Monday"
+TUESDAY = "Tuesday"
