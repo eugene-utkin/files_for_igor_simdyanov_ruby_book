@@ -6,4 +6,4 @@ FRIDAY = "Friday"
 SATURDAY = "Saturday"
 SUNDAY = "Sunday"
 
-WEEK = [MONDAY, TUESDAY]
+WEEK = [MONDAY, TUESDAY, WEDNESDAY]
