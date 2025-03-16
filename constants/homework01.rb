@@ -5,3 +5,5 @@ THURSDAY = "Thursday"
 FRIDAY = "Friday"
 SATURDAY = "Saturday"
 SUNDAY = "Sunday"
+
+WEEK = []
