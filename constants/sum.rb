@@ -1,0 +1,1 @@
+exit if ARGV.empty?
