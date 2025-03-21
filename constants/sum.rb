@@ -11,5 +11,6 @@ ARGV.each do |arg|
     sum += num
   else
     puts "All arguments must be numbers."
+    exit
   end
 end
