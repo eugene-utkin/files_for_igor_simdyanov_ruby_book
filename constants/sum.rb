@@ -14,3 +14,5 @@ ARGV.each do |arg|
     exit
   end
 end
+
+puts "Sum of all numbers is #{sum}."
