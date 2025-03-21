@@ -6,5 +6,5 @@ end
 sum = 0
 
 ARGV.each do |arg|
-
+  num = arg.to_i
 end
