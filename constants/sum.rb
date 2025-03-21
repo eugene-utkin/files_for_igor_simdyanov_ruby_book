@@ -1,1 +1,3 @@
-exit if ARGV.empty?
+if ARGV.empty?
+  exit
+end
