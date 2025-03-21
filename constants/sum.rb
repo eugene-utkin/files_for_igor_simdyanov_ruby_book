@@ -10,5 +10,6 @@ ARGV.each do |arg|
   if num.to_s == arg
     sum += num
   else
+    puts "All arguments must be numbers."
   end
 end
