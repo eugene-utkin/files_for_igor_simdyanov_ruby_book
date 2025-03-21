@@ -3,6 +3,8 @@ if ARGV.empty?
   exit
 end
 
+sum = 0
+
 ARGV.each do |arg|
 
 end
