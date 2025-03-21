@@ -9,5 +9,6 @@ ARGV.each do |arg|
   num = arg.to_i
   if num.to_s == arg
     sum += num
+  else
   end
 end
