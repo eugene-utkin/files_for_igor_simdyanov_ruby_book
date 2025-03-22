@@ -1,4 +1,4 @@
 if ARGV.empty?
-  puts "Enter birthdate in format dd mm yyyy"
+  puts "Wrong input! Enter birthdate in format dd mm yyyy"
   exit
 end
