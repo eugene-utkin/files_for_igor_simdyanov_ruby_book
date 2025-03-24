@@ -3,7 +3,7 @@ unless ARGV.length == 3
   exit
 end
 
-if ARGV[1]
+if ARGV[1] && ARGV[1].to_i.to_s == ARGV[1]
 
 end
 
