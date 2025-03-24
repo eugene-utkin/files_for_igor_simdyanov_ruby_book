@@ -5,6 +5,7 @@ end
 
 if ARGV[1] && ARGV[1].to_i.to_s == ARGV[1]
   month = ARGV[1].to_i
+else
 end
 
 if ARGV[2] && ARGV[2].to_i.to_s == ARGV[2]
