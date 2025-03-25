@@ -12,7 +12,7 @@ end
 if ARGV[1] && ARGV[1].to_i.to_s == ARGV[1]
   month = ARGV[1].to_i
 else
-  puts "Wrong month! Enter birthdate in format dd mm yyyy"
+  puts "Wrong month format! Enter birthdate in format dd mm yyyy"
   exit
 end
 
