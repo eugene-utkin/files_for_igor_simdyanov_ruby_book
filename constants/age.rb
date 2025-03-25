@@ -6,7 +6,7 @@ end
 if ARGV[0] && ARGV[0].to_i.to_s == ARGV[0]
   day = ARGV[0].to_i
 else
-  puts "Wrong day! Enter birthdate in format dd mm yyyy"
+  puts "Wrong day format! Enter birthdate in format dd mm yyyy"
 end
 
 if ARGV[1] && ARGV[1].to_i.to_s == ARGV[1]
