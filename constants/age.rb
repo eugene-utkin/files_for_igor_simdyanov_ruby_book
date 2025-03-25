@@ -4,7 +4,7 @@ unless ARGV.length == 3
 end
 
 if ARGV[0] && ARGV[0].to_i.to_s == ARGV[0]
-
+  day = ARGV[0].to_i
 end
 
 if ARGV[1] && ARGV[1].to_i.to_s == ARGV[1]
