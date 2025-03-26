@@ -26,4 +26,4 @@ else
   exit
 end
 
-birthdate = Date.new
+birthdate = Date.new(year)
