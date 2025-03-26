@@ -25,3 +25,5 @@ else
   puts "Wrong year format! Enter birthdate in format dd mm yyyy"
   exit
 end
+
+birthdate = Date.new
