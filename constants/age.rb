@@ -27,3 +27,4 @@ else
 end
 
 birthdate = Date.new(year, month, day)
+puts birthdate
