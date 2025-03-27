@@ -29,4 +29,12 @@ end
 birthdate = Date.new(year, month, day)
 
 age = Date.today.year - birthdate.year
+age -= 1
 puts age
+
+a = d.year - bd.year
+    a = a - 1 if (
+         bd.month >  d.month or 
+        (bd.month >= d.month and bd.day > d.day)
+    )
+    a
