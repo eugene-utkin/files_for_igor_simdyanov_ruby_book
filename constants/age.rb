@@ -27,6 +27,7 @@ else
 end
 
 birthdate = Date.new(year, month, day)
+today = Date.today
 
 age = Date.today.year - birthdate.year
 age -= 1
