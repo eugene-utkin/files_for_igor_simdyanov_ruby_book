@@ -28,5 +28,5 @@ end
 
 birthdate = Date.new(year, month, day)
 
-age = Date.today.year - birthdate
+age = Date.today.year - birthdate.year
 puts age
