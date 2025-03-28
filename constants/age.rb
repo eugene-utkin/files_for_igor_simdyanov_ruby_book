@@ -5,6 +5,10 @@ unless ARGV.length == 3
   exit
 end
 
+def exit_with_message
+
+end
+
 if ARGV[0]
   if ARGV[0].to_i.to_s == ARGV[0]
     day = ARGV[0].to_i
