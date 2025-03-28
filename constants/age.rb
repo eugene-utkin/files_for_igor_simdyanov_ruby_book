@@ -1,9 +1,5 @@
 require 'date'
 
-unless ARGV.length == 3
-  exit_with_message
-end
-
 def exit_with_message(period = nil)
   if period
     puts "Wrong #{period} format! Enter birthdate in format dd mm yyyy."
@@ -11,6 +7,10 @@ def exit_with_message(period = nil)
     puts "Wrong input! Enter birthdate in format dd mm yyyy"
   end
   exit
+end
+
+unless ARGV.length == 3
+  exit_with_message
 end
 
 if ARGV[0]
