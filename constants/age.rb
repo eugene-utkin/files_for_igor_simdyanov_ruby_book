@@ -5,7 +5,7 @@ unless ARGV.length == 3
   exit
 end
 
-def exit_with_message(period)
+def exit_with_message(period = nil)
   if period
     puts "Wrong #{period} format! Enter birthdate in format dd mm yyyy."
   end
