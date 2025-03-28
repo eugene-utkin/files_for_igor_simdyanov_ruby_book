@@ -6,7 +6,10 @@ unless ARGV.length == 3
 end
 
 def exit_with_message(period)
-  puts "Wrong #{period} format! Enter birthdate in format dd mm yyyy."
+  if period
+    puts "Wrong #{period} format! Enter birthdate in format dd mm yyyy."
+  end
+  exit
 end
 
 if ARGV[0]
