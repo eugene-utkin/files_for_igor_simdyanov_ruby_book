@@ -5,7 +5,7 @@ unless ARGV.length == 3
   exit
 end
 
-def exit_with_message
+def exit_with_message(period)
 
 end
 
