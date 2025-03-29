@@ -15,6 +15,9 @@ end
 
 if ARGV[0]
   day_as_txt = ARGV[0]
+  day_as_txt = ARGV[0][1]
+  
+  puts day_as_txt
   if ARGV[0].to_i.to_s == ARGV[0]
     day = ARGV[0].to_i
   end
