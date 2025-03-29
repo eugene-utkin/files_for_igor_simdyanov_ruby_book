@@ -14,10 +14,7 @@ unless ARGV.length == 3
 end
 
 if ARGV[0]
-  day_as_txt = ARGV[0]
-  day_as_txt = ARGV[0][1]
-  
-  puts day_as_txt
+  day_as_txt = ARGV[0].length == 2 && ARGV[0][0] == "0" ? ARGV[0][1] : ARGV[0]
   if ARGV[0].to_i.to_s == ARGV[0]
     day = ARGV[0].to_i
   end
