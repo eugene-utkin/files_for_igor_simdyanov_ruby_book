@@ -19,7 +19,7 @@ if ARGV[0] && ARGV[0].length == 2
   if day_as_int.to_s == day_as_txt
     day = day_as_int
   else
-
+    exit_with_message("day")
   end
 else
   puts "Wrong day format! Enter birthdate in format dd mm yyyy"
