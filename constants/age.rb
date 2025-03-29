@@ -15,7 +15,7 @@ end
 
 if ARGV[0]
   day_as_txt = ARGV[0].length == 2 && ARGV[0][0] == "0" ? ARGV[0][1] : ARGV[0]
-
+  day_as_int = day_as_txt.to_i
   if day_as_txt.to_i.to_s == day_as_txt
     day = day_as_txt.to_i
   end
