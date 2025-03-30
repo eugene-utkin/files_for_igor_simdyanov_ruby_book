@@ -1,6 +1,6 @@
 require 'date'
 
-def generate_period(input)
+def generate_period(input, period)
 
 end
 
