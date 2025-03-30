@@ -5,7 +5,7 @@ def generate_period(input, period, length)
     day_as_txt = input[0] == "0" ? input[1] : input
     day_as_int = day_as_txt.to_i
     if day_as_int.to_s == day_as_txt
-      day = day_as_int
+      return day_as_int
     else
       exit_with_message("day")
     end
