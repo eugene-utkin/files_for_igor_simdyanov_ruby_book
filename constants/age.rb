@@ -22,8 +22,7 @@ if ARGV[0] && ARGV[0].length == 2
     exit_with_message("day")
   end
 else
-  puts "Wrong day format! Enter birthdate in format dd mm yyyy"
-  exit
+  exit_with_message("day")
 end
 
 if ARGV[1] && ARGV[1].to_i.to_s == ARGV[1]
