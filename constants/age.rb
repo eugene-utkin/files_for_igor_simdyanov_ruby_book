@@ -1,5 +1,9 @@
 require 'date'
 
+def generate_period
+
+end
+
 def exit_with_message(period = nil)
   if period
     puts "Wrong #{period} format! Enter birthdate in format dd mm yyyy."
