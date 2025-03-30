@@ -2,10 +2,10 @@ require 'date'
 
 def generate_period(input, period, length)
   if input && input.length == length
-    day_as_txt = input[0] == "0" ? input[1] : input
-    day_as_int = day_as_txt.to_i
-    if day_as_int.to_s == day_as_txt
-      return day_as_int
+    period_as_txt = input[0] == "0" ? input[1] : input
+    period_as_int = pedriod_as_txt.to_i
+    if period_as_int.to_s == period_as_txt
+      return period_as_int
     else
       exit_with_message("day")
     end
