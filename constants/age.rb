@@ -28,15 +28,8 @@ unless ARGV.length == 3
 end
 
 day = generate_period(ARGV[0], "day", 2)
-
 month = generate_period(ARGV[1], "month", 2)
-
-if ARGV[2] && ARGV[2].to_i.to_s == ARGV[2]
-  year = ARGV[2].to_i
-else
-  puts "Wrong year format! Enter birthdate in format dd mm yyyy"
-  exit
-end
+year = generate_period(ARGV[2], "year", 4)
 
 birthdate = Date.new(year, month, day)
 today = Date.today
