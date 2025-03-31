@@ -31,6 +31,8 @@ day = generate_period(ARGV[0], "day", 2)
 month = generate_period(ARGV[1], "month", 2)
 year = generate_period(ARGV[2], "year", 4)
 
+exit_with_message unless Date.valid_date?(year, month, day)
+
 birthdate = Date.new(year, month, day)
 today = Date.today
 
