@@ -2,7 +2,7 @@ require 'date'
 
 def generate_period(input, period, length)
   if input && input.length == length
-    period_as_txt = input[0] == "0" ? input[1] : input
+    period_as_txt = period_as_txt.gsub(/^0+/, "")
     period_as_int = period_as_txt.to_i
     if period_as_int.to_s == period_as_txt
       return period_as_int
