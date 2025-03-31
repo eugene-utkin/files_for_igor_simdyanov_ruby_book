@@ -29,12 +29,7 @@ end
 
 day = generate_period(ARGV[0], "day", 2)
 
-if ARGV[1] && ARGV[1].to_i.to_s == ARGV[1]
-  month = ARGV[1].to_i
-else
-  puts "Wrong month format! Enter birthdate in format dd mm yyyy"
-  exit
-end
+month = generate_period(ARGV[1], "month", 2)
 
 if ARGV[2] && ARGV[2].to_i.to_s == ARGV[2]
   year = ARGV[2].to_i
