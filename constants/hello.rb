@@ -1,5 +1,5 @@
 def hello(hour)
-  if hour >= 6 && < 12
+  if hour >= 6 && hour < 12
 
   end
 end
