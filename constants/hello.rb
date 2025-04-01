@@ -1,6 +1,6 @@
 def hello(hour)
   if hour >= 6 && hour < 12
-
+    puts "Good morning!"
   end
 end
 
