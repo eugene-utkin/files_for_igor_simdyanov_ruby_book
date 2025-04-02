@@ -2,6 +2,7 @@ def hello(hour)
   if hour >= 6 && hour < 12
     puts "Good morning!"
   elsif hour >= 12 && hour < 18
+    puts "Good afternoon!"
   end
 end
 
