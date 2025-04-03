@@ -6,6 +6,7 @@ def hello(hour)
   elsif hour >= 18
     puts "Good evening!"
   elsif hour < 6
+    puts "Good night!"
   end
 end
 
