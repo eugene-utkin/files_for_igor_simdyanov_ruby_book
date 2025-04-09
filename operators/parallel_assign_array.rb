@@ -1,2 +1,2 @@
 arr = 'Hello', 'world', '!'
-p arr
+p arr # ["Hello", "world", "!"]
