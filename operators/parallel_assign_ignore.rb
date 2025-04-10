@@ -1,3 +1,3 @@
 fst, snd = 'Hello', 'world', '!'
 puts fst # Hello
-puts snd
+puts snd # world
