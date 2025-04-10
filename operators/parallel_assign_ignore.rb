@@ -1,2 +1,2 @@
 fst, snd = 'Hello', 'world', '!'
-puts fst
+puts fst # Hello
