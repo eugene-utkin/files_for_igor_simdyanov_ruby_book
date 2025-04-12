@@ -1,2 +1,2 @@
 fst, (f, s), thd = 'Hello', 'world', '!'
-p fst
+p fst # "Hello"
