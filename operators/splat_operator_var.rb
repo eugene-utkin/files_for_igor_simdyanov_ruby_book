@@ -1,0 +1,1 @@
+fst, *snd = ['Hello', 'world', '!']
