@@ -1,2 +1,2 @@
 fst, *snd = *['Hello', 'world', '!']
-p fst
+p fst # "Hello"
