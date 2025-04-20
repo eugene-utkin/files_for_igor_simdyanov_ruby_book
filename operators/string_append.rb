@@ -1,1 +1,2 @@
 str = 'Hello,'
+str << ' world!'
