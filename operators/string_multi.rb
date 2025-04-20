@@ -1,1 +1,1 @@
-puts 'Hello' * 3
+puts 'Hello' * 3 # HelloHelloHello
