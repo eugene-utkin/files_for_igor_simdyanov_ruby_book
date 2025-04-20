@@ -1,3 +1,3 @@
 str = 'Hello,'
 str << ' world!'
-puts str
+puts str # Hello, world!
