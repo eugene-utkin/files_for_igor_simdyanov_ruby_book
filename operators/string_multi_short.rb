@@ -1,3 +1,3 @@
 str = 'Hello'
 str *= 3
-puts str
+puts str # HelloHelloHello
