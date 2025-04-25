@@ -9,4 +9,4 @@ puts '%f' % number  # 5867.000000
 puts '%o' % number  # 13353
 puts '%o' % -number # ..764425
 puts '%#o' % number # 013353
-puts '%s' % number
+puts '%s' % number  # 5867
