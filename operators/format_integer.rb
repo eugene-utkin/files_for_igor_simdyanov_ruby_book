@@ -11,4 +11,4 @@ puts '%o' % -number # ..764425
 puts '%#o' % number # 013353
 puts '%s' % number  # 5867
 puts '%x' % number  # 16eb
-
+puts '%x' % -number
