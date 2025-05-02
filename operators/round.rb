@@ -11,4 +11,4 @@ puts 12.92869.ceil(2)   # 12.93
 puts 1000.45684.floor    # 1000
 puts 1000.45684.floor(2) # 1000.45
 puts 12.92869.floor      # 12
-puts 12.92869.floor(2)
+puts 12.92869.floor(2)   # 12.92
