@@ -3,3 +3,4 @@ snd = Object.new
 thd = fst
 
 p fst == snd # false
+p fst == thd
