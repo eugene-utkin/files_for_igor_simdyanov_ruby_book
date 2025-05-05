@@ -2,4 +2,4 @@ fst = Object.new
 snd = Object.new
 thd = fst
 
-p fst == snd
+p fst == snd # false
