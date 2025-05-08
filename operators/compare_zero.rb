@@ -1,1 +1,1 @@
-p 1.negative?
+p 1.negative?  # false
