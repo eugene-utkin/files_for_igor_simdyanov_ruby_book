@@ -5,3 +5,5 @@ p -1.negative? # true
 p 1.zero?      # false
 p 0.zero?      # true
 p -1.zero?     # false
+
+p 1.positive?
