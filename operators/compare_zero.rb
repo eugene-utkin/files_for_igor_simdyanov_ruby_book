@@ -3,4 +3,4 @@ p 0.negative?  # false
 p -1.negative? # true
 
 p 1.zero?      # false
-p 0.zero?
+p 0.zero?      # true
