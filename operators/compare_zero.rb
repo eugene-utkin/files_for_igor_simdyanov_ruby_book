@@ -8,4 +8,4 @@ p -1.zero?     # false
 
 p 1.positive?  # true
 p 0.positive?  # false
-p -1.positive?
+p -1.positive? # false
