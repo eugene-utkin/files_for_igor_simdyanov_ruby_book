@@ -9,6 +9,6 @@ ARGV.each do |arg|
   if num.to_s == arg
 
   else
-
+    puts "All arguments must be integers."
   end
 end
