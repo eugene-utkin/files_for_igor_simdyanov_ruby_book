@@ -10,5 +10,6 @@ ARGV.each do |arg|
 
   else
     puts "All arguments must be integers."
+    exit
   end
 end
