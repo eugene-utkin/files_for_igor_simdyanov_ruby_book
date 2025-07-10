@@ -4,5 +4,5 @@ if ARGV.empty?
 end
 
 ARGV.each do |arg|
-
+  num = arg.to_i
 end
