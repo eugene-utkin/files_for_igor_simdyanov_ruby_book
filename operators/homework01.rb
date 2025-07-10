@@ -8,5 +8,7 @@ ARGV.each do |arg|
 
   if num.to_s == arg
 
+  else
+
   end
 end
