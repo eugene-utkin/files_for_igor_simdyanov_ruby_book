@@ -9,4 +9,5 @@ nums = ARGV.map do |arg|
     puts "All arguments must be integers."
     exit
   end
+  num
 end
