@@ -5,8 +5,6 @@ end
 
 ARGV.each do |arg|
   if arg.to_i.to_s != arg
-    
-  else
     puts "All arguments must be integers."
     exit
   end
