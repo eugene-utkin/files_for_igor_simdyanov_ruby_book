@@ -3,7 +3,7 @@ if ARGV.empty? || ARGV.length != 2
   exit
 end
 
-nums = ARGV.each do |arg|
+nums = ARGV.map do |arg|
   if arg.to_i.to_s != arg
     puts "All arguments must be integers."
     exit
