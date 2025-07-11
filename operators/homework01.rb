@@ -5,7 +5,7 @@ end
 
 nums = ARGV.map do |arg|
   num = arg.to_i
-  if num.to_s != arg
+  unless num.to_s == arg
     puts "All arguments must be integers."
     exit
   end
