@@ -4,6 +4,7 @@ if ARGV.empty? || ARGV.length != 2
 end
 
 nums = ARGV.map do |arg|
+  num = arg.to_i
   if arg.to_i.to_s != arg
     puts "All arguments must be integers."
     exit
