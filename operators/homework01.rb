@@ -17,3 +17,5 @@ total = 1
 second_num.times do
   total *= first_num
 end
+
+puts "#{first_num} in the power of #{second_time} equals #{total}."
