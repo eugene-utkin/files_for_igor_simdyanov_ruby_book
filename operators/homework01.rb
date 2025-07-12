@@ -13,3 +13,7 @@ first_num, second_num = ARGV.map do |arg|
 end
 
 total = 1
+
+second_num.times do
+
+end
