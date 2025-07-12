@@ -15,5 +15,5 @@ end
 total = 1
 
 second_num.times do
-
+  total *= first_num
 end
