@@ -11,3 +11,5 @@ first_num, second_num = ARGV.map do |arg|
   end
   num
 end
+
+total = 1
