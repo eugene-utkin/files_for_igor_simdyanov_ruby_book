@@ -1,0 +1,2 @@
+if ARGV.empty?
+end
