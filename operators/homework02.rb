@@ -4,3 +4,6 @@ if ARGV.empty? || ARGV.length != 1
 end
 
 num = ARGV.first
+if num.to_i.to_s != num
+
+end
