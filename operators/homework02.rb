@@ -6,4 +6,5 @@ end
 num = ARGV.first
 if num.to_i.to_s != num
   puts "Enter an integer!"
+  exit
 end
