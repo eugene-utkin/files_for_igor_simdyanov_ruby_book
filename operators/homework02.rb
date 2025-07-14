@@ -4,7 +4,7 @@ if ARGV.empty? || ARGV.length != 1
 end
 
 num = ARGV.first
-if num.to_i.to_s != num
+unless num.to_i.to_s == num
   puts "Enter an integer!"
   exit
 end
