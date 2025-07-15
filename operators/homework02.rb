@@ -10,3 +10,4 @@ unless num.to_i.to_s == num
 end
 
 result = (num & 1) == 1 ? "Odd" : "Even"
+puts "#{num} is #{result}."
