@@ -3,8 +3,8 @@ if ARGV.empty? || ARGV.length != 1
   exit
 end
 
-num = ARGV.first
-unless num.to_i.to_s == num
+num = ARGV.first.to_i
+unless num.to_s == num
   puts "Enter an integer!"
   exit
 end
