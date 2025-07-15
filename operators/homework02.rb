@@ -8,3 +8,5 @@ unless num.to_i.to_s == num
   puts "Enter an integer!"
   exit
 end
+
+(num & 1) == 1
