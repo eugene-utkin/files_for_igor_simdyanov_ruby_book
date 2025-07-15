@@ -9,4 +9,4 @@ unless num.to_i.to_s == num
   exit
 end
 
-(num & 1) == 1 ? "Odd" : "Even"
+result = (num & 1) == 1 ? "Odd" : "Even"
