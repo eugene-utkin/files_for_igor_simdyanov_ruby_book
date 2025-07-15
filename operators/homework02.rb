@@ -3,6 +3,7 @@ if ARGV.empty? || ARGV.length != 1
   exit
 end
 
+str = ARGV.first
 num = ARGV.first.to_i
 unless num.to_s == num
   puts "Enter an integer!"
